@@ -15,4 +15,4 @@ const path = require('path');
 // console.log(path.parse(__filename).base)
 
 // Concatenate paths
-console.log(path.join(__dirname,'test',"hello.html"))
+//console.log(path.join(__dirname,'test',"hello.html"))
